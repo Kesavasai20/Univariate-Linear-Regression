@@ -41,6 +41,8 @@ plt.plot(X,Y_pred,color='black')
 plt.show
 ```
 ## Output
+
+
 ![mat-ex-8 1](https://github.com/Kesavasai20/Univariate-Linear-Regression/assets/138849303/386ce0c6-1bb8-4319-be0f-0dd6264b3014)
 ![mat-ex-8 2](https://github.com/Kesavasai20/Univariate-Linear-Regression/assets/138849303/741474dc-95c1-43a5-a4a8-770688018700)
 
